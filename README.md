@@ -62,14 +62,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshmi-Chakradhar-Vijayarao&show_icons=true&theme=radical" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmi-Chakradhar-Vijayarao&layout=compact&theme=radical" height="170">
-</p>
-
----
 
 ## 🌐 Connect With Me
 
