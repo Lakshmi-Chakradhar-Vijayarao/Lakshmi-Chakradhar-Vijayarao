@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshmi Chakradhar</h1>
-<h3 align="center">Python Stack Developer | AWS Cloud Practitioner | DevOps Enthusiast | Machine Learning & Big Data Engineer</h3>
+<h3 align="center">Software Engineer | AWS Cloud Practitioner | DevOps Enthusiast | Machine Learning & Big Data Engineer</h3>
 
 ---
 
