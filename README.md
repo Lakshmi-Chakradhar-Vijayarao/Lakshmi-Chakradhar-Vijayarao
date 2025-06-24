@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lakshmi Chakradhar Vijayarao</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F78C00&center=true&vCenter=true&repeat=Infinity&width=1000&lines=Software+Engineer+%7C+ML+%26+Cloud+Developer+%7C+Full-Stack+Builder+%7C+MSCS+%40+UT+Dallas" alt="Typing Animation" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F78C00&center=true&vCenter=true&repeat=Infinity&width=1000&lines=Software+Engineer+%7C+ML+%26+Data+Engineer" alt="Typing Animation Line 1"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1F8AC0&center=true&vCenter=true&repeat=Infinity&width=1000&lines=Cloud+Developer+%7C+Full-Stack+Builder+%7C+MSCS+%40+UT+Dallas" alt="Typing Animation Line 2"/>
+</p>
 
 ---
 
@@ -12,8 +14,8 @@
 💡 I build end-to-end intelligent systems, from scalable ML pipelines to full-stack web apps  
 ☁️ Certified AWS Cloud Practitioner with real-world project deployments  
 📊 Passionate about Big Data analytics, automation, and AI-driven insights  
-🛠️ Currently sharpening my skills in MLOps and large-scale distributed computing  
-📌 This repo serves as a growing portfolio of academic + personal project work
+🛠️ Continuously learning through research-based projects and advanced cloud/data workflows  
+📌 This repo serves as an academic + personal showcase archive  
 
 ---
 
@@ -43,19 +45,20 @@
 
 ## 🔥 Highlight Projects
 
-- 🎯 **AgroVision**: AI-powered weed & crop detection using YOLOv5  
-- 🎬 **Movie Search Engine**: TF-IDF + cosine similarity using PySpark  
-- 📷 **Facial Attendance Tracker**: Cloud-synced face recognition system  
-- 🌱 **MobiShroom**: MobileNetV2 classifier for mushroom species  
-- 🧠 **AlphaRoute**: Smart trade execution engine (Reinforcement Learning)  
-- 🌩 **Cloud ETL Pipeline**: AWS Glue, Redshift, Airflow, Athena stack  
-- 👥 **FriendGraph-X**: PySpark-based mutual friend recommender system  
+- 🌾 **AgroVision** – Weed & crop detection using YOLOv5  
+- 🧠 **AlphaRoute** – RL-based trading agent with PPO & DQN  
+- 📷 **Facial Attendance Tracker** – Cloud-synced face recognition  
+- 🍄 **MobiShroom** – MobileNetV2 mushroom identifier  
+- ☁️ **Weather ETL Pipeline** – AWS Glue, Athena, Redshift  
+- 🎬 **Movie Similarity Engine** – TF-IDF + cosine similarity (PySpark)  
+- 👥 **FriendGraph-X** – Mutual friend recommender with PySpark  
+- 📊 **SocialNet-T** – Twitter Graph analytics with GraphFrames  
 
 ---
 
 ## 🌐 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/lakshmichakradharvijayarao/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
