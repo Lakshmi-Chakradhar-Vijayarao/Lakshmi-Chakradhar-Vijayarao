@@ -49,7 +49,7 @@
 
 ## 🔥 Featured Projects
 
-<!-- 🌀 Animated list of all projects one-by-one -->
+<!-- 🌀 Animated list of all projects one-by-one (Looping fixed) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=FACC15&center=true&vCenter=true&repeat=Infinity&width=1000&lines=AgroVision:+AI+Crop+%26+Weed+Detection;AlphaRoute:+Smart+Trade+Execution+Engine;Facial+Recognition+Attendance+Tracker;Mushroom+Classification+Pipeline;DL-SVM+Hybrid+Classifier;MobiShroom:+MobileNetV2+Identifier;ETL+Pipeline+for+Weather+Analytics;Semantic+Movie+Search+Engine;FriendGraph-X:+Mutual+Friend+Recommender;SocialNet-T:+Twitter+Graph+Analytics;xv6:+Custom+OS+Scheduler;Smart+Pedestrian+Signal+System;TravelSync:+Real-Time+Planner+App;IoT+Gas+Leakage+Monitoring+System" alt="Typing Project Titles"/>
 </p>
