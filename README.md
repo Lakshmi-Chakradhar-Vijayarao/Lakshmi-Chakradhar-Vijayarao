@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lakshmi Chakradhar</h1>
 
-<!-- 🌀 Smooth Looping Header Animation -->
+<!-- 🌀 Smooth Looping Header Animation (1 Line at a Time) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=F97316&center=true&vCenter=true&repeat=Infinity&width=1000&lines=Software+Engineer+%7C+ML+%26+Data+Engineer;Cloud+Developer+%7C+Full-Stack+Builder+%7C+MSCS+%40+UT+Dallas" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&repeat=Infinity&width=1000&lines=Software+Engineer+%7C+ML+%26+Data+Engineer" alt="Typing Animation Line 1"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=Infinity&width=1000&lines=Cloud+Developer+%7C+Full-Stack+Builder+%7C+MSCS+%40+UT+Dallas" alt="Typing Animation Line 2"/>
 </p>
 
 ---
@@ -59,9 +62,27 @@
 
 ## 🔥 Featured Projects
 
-<!-- 🔁 Animated Project Section -->
+<!-- 🔁 Smooth Looping Project Animation (One Line at a Time) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3300&pause=700&color=10B981&center=true&vCenter=true&repeat=Infinity&width=1000&lines=🌾+AgroVision%3A+YOLO-Based+Weed+Detection+for+Smart+Farming;📷+Facial+Recognition+Attendance+System+with+Real-Time+Cloud+Sync;🧪+Mushroom+Classification+with+CNN%2BSVM+Hybrid+Models;📊+Cloud-Native+Weather+ETL+Pipeline+on+AWS;🎬+Movie+Similarity+Engine+Using+PySpark+%26+TF-IDF;🤝+FriendGraph-X%3A+Mutual+Friend+Recommender+Using+RDDs;📡+Smart+Traffic+Signal+Using+KNN+and+Raspberry+Pi" alt="Typing Animated Projects"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=10B981&center=true&vCenter=true&repeat=Infinity&width=1000&lines=🌾+AgroVision:+YOLOv5+Weed+Detection+System" alt="AgroVision Project"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=6366F1&center=true&vCenter=true&repeat=Infinity&width=1000&lines=🎬+Movie+Search+Engine+using+TF-IDF+%26+PySpark" alt="Movie Search Project"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=EC4899&center=true&vCenter=true&repeat=Infinity&width=1000&lines=📊+ETL+Weather+Pipeline+with+AWS+Glue+%26+Redshift" alt="ETL Weather Project"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=FBBF24&center=true&vCenter=true&repeat=Infinity&width=1000&lines=🧠+DL+%2B+SVM+Mushroom+Classifier" alt="DL SVM Mushroom"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=3B82F6&center=true&vCenter=true&repeat=Infinity&width=1000&lines=📷+Facial+Recognition+Attendance+Tracker" alt="Facial Recognition"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=EF4444&center=true&vCenter=true&repeat=Infinity&width=1000&lines=🎥+Group+Meeting+App+(React,+Node,+WebRTC)" alt="Group Meeting App"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=0EA5E9&center=true&vCenter=true&repeat=Infinity&width=1000&lines=🌐+Twitter+Graph+Analytics+Engine+with+GraphFrames" alt="Twitter GraphFrames"/>
 </p>
 
 ---
