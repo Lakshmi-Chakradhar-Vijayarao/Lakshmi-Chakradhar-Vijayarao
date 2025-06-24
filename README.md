@@ -1,81 +1,68 @@
 <h1 align="center">Hi 👋, I'm Lakshmi Chakradhar Vijayarao</h1>
-<h3 align="center">Software Engineer | ML & Cloud Developer | Full-Stack Builder | MSCS @ UT Dallas</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F78C00&center=true&vCenter=true&repeat=Infinity&width=1000&lines=Software+Engineer+%7C+ML+%26+Cloud+Developer+%7C+Full-Stack+Builder+%7C+MSCS+%40+UT+Dallas" alt="Typing Animation" />
+</h3>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-- 🎓 Graduate Student, MS in Computer Science @ **University of Texas at Dallas** (May 2025)
-- 💼 Passionate about **Machine Learning**, **Cloud-Native Engineering**, and **Full-Stack Development**
-- ☁️ Certified **AWS Cloud Practitioner**, hands-on with EC2, S3, Lambda, and Glue
-- 🧠 Building real-world solutions using **Python, Java, React.js, Node.js, PySpark**, and **TensorFlow**
-- 🚀 Actively contributing to personal projects and building advanced data-driven systems
+🎓 Master's in Computer Science @ University of Texas at Dallas  
+💡 I build end-to-end intelligent systems, from scalable ML pipelines to full-stack web apps  
+☁️ Certified AWS Cloud Practitioner with real-world project deployments  
+📊 Passionate about Big Data analytics, automation, and AI-driven insights  
+🛠️ Currently sharpening my skills in MLOps and large-scale distributed computing  
+📌 This repo serves as a growing portfolio of academic + personal project work
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🧠 Tech Toolbox
 
-### 👨‍💻 Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### 💻 Programming & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🤖 AI & Data Science
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
+### 🤖 Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Highlight Projects
 
-🌾 **AgroVision** — YOLOv5 + OpenCV-based Smart Crop & Weed Detection  
-📈 **AlphaRoute** — Reinforcement Learning Smart Trading Engine  
-🍄 **Mushroom Classifier Suite** — CNN + SVM | MobileNetV2 | Softmax  
-📷 **Facial Recognition Attendance System** — Real-time Cloud Sync  
-☁️ **ETL Pipeline for Weather Analytics** — AWS Glue + Redshift + Airflow  
-🎬 **Movie Search Engine** — TF-IDF + PySpark for Semantic Recommendations  
-
----
-
-## 📜 Certifications
-
-- 🧠 Microsoft AI & ML Engineering Professional Certificate  
-- 🛠️ Microsoft Full-Stack Developer Professional Certificate  
-- ☁️ AWS Certified Cloud Practitioner (AWS Academy)  
-- 🧪 MLOps Specialization – DeepLearning.AI  
+- 🎯 **AgroVision**: AI-powered weed & crop detection using YOLOv5  
+- 🎬 **Movie Search Engine**: TF-IDF + cosine similarity using PySpark  
+- 📷 **Facial Attendance Tracker**: Cloud-synced face recognition system  
+- 🌱 **MobiShroom**: MobileNetV2 classifier for mushroom species  
+- 🧠 **AlphaRoute**: Smart trade execution engine (Reinforcement Learning)  
+- 🌩 **Cloud ETL Pipeline**: AWS Glue, Redshift, Airflow, Athena stack  
+- 👥 **FriendGraph-X**: PySpark-based mutual friend recommender system  
 
 ---
 
-## 📬 Let's Connect
+## 🌐 Let's Connect
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/lakshmichakradharvijayarao/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lakshmichakradhar.v@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Lakshmi-Chakradhar-Vijayarao" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-📌 *This GitHub is a personal archive of academic, internship, and self-driven work. It reflects my continuous learning journey and project-based growth in software engineering.*
