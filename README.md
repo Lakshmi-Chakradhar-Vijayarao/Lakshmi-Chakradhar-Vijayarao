@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Lakshmi Chakradhar</h1>
 
+<!-- 🌀 Alternating Header (1 at a time) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F78C00&center=true&vCenter=true&repeat=Infinity&width=1000&lines=Software+Engineer+%7C+ML+%26+Data+Engineer" alt="Typing Animation Line 1"/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1F8AC0&center=true&vCenter=true&repeat=Infinity&width=1000&lines=Cloud+Developer+%7C+Full-Stack+Builder+%7C+MSCS+%40+UT+Dallas" alt="Typing Animation Line 2"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F78C00&center=true&vCenter=true&repeat=Infinity&width=800&lines=Software+Engineer+%7C+ML+%26+Data+Engineer" alt="Typing Animation Line 1"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1F8AC0&center=true&vCenter=true&repeat=Infinity&width=800&lines=Cloud+Developer+%7C+Full-Stack+Builder+%7C+MSCS+%40+UT+Dallas" alt="Typing Animation Line 2"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Science graduate from **UT Dallas** (May 2025)  
-🔬 Passionate about building real-world ML & cloud-native systems  
-🌱 Always exploring new stacks in full-stack, DevOps, and data engineering  
-💡 Projects driven by sustainability, performance, and user-first design  
-📫 Reach me at: lakshmichakradhar.v@gmail.com
+🎓 CS Graduate @ UT Dallas (May 2025)  
+🧠 ML + Full-Stack Developer with DevOps experience  
+🌾 Passionate about AI for impact — from agriculture to trading  
+📬 Reach me at: lakshmichakradhar.v@gmail.com
 
 ---
 
@@ -51,8 +52,9 @@
 
 ## 🔥 Featured Projects
 
+<!-- 🌀 Animated list of all projects one-by-one -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&repeat=Infinity&width=1000&lines=AgroVision:+AI+Crop+%26+Weed+Detection;AlphaRoute:+Smart+Trade+Execution+Engine;Facial+Recognition+Attendance+Tracker;Mushroom+Classification+Pipeline;DL-SVM+Hybrid+Classifier;MobiShroom:+MobileNetV2+Identifier;ETL+Pipeline+for+Weather+Analytics;Semantic+Movie+Search+Engine;FriendGraph-X:+Mutual+Friend+Recommender;SocialNet-T:+Twitter+Graph+Analytics;xv6:+Custom+OS+Scheduler;Smart+Pedestrian+Signal+System;TravelSync:+Real-Time+Planner+App;IoT+Gas+Leakage+Monitoring+System" alt="Typing Project Titles"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=FF6B00&center=true&vCenter=true&repeat=Infinity&width=1000&lines=AgroVision:+AI+Crop+%26+Weed+Detection;AlphaRoute:+Smart+Trade+Execution+Engine;Facial+Recognition+Attendance+Tracker;Mushroom+Classification+Pipeline;DL-SVM+Hybrid+Classifier;MobiShroom:+MobileNetV2+Identifier;ETL+Pipeline+for+Weather+Analytics;Semantic+Movie+Search+Engine;FriendGraph-X:+Mutual+Friend+Recommender;SocialNet-T:+Twitter+Graph+Analytics;xv6:+Custom+OS+Scheduler;Smart+Pedestrian+Signal+System;TravelSync:+Real-Time+Planner+App;IoT+Gas+Leakage+Monitoring+System" alt="Typing Project Titles"/>
 </p>
 
 ---
