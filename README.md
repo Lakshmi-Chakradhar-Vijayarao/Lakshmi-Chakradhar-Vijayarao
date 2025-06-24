@@ -69,3 +69,9 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## 🗃️ Personal Note
+
+> This GitHub is where I store all my personal work, hands-on experiments, and academic projects — all built through my studies and genuine interest in technology. 🚀
