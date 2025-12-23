@@ -52,69 +52,41 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Projects (Systems, AI & Research)
 
 | 🧠 Project | 🚀 Description |
 |-----------|----------------|
+| **SafeRAG** ⭐ | **Semantic claim-level verification & hallucination mitigation system**. Decomposes LLM outputs into atomic claims, verifies them against evidence using semantic entailment, and enforces explicit safety decisions (ACCEPT / REJECT / REFUSE). |
+| **MedRAG** ⭐ | **Clinical RAG system with hybrid retrieval (dense + BM25)**, reranking, and post-generation verification. Reduced hallucinations by 34% and improved terminology recall by 31%. |
+| **RL-Retriever** ⭐ | **Reinforcement learning–based query optimization for RAG**. Trains PPO/DQN agents to rewrite queries using retrieval-aware rewards, boosting recall by 28%. |
 | **AlphaRoute** | RL-based trading engine using PPO/DQN to reduce slippage by 18% |
 | **LoRA Fine-Tuning on StackOverflow** | PEFT-based LLM fine-tuning for tech Q&A generation |
-| **LangChain Resume Assistant** | Semantic resume Q&A using LangChain + HuggingFaceHub |
+| **LangChain Resume Assistant** | Semantic resume Q&A using LangChain + HuggingFace |
 | **RAG-Powered PDF Q&A System** | Real-time document QA with embeddings + ChromaDB |
 | **Resume Optimizer AI** | GPT-based resume rewriting tool with 200+ users |
 | **AgroVision** | YOLO-based weed/crop detector (90% mAP, 15% less herbicide) |
 | **Face Recognition Attendance** | 99.3% accurate face recognition with secure cloud sync |
 | **Smart Pedestrian Signal** | Raspberry Pi + KNN for dynamic traffic signal automation |
-| **Custom Linux Scheduler** | Lottery/priority schedulers on xv6, cut context switches by 18% |
+| **Custom Linux Scheduler** | Lottery/priority schedulers on xv6, reduced context switches by 18% |
 | **IoT Gas Monitor** | Arduino + IBM Watson for real-time leakage alerts |
-| **ETL Weather Pipeline** | AWS Glue + Redshift + Airflow for weather data pipelines |
+| **ETL Weather Pipeline** | AWS Glue + Redshift + Airflow data pipeline |
 | **Movie Search Engine** | PySpark + TF-IDF semantic search over 100K+ records |
-| **Mushroom Classification Pipeline** | 95%+ accuracy via ensemble models (RF, DT, KNN) |
+| **Mushroom Classification Pipeline** | 95%+ accuracy via ensemble ML models |
 | **TravelSync** | Real-time travel planner using PHP + SQL + JS |
 
----
-
-## 📄 Certifications
-
-- 🤗 **Hugging Face LLM Course**  
-- ☁️ **AWS Certified Cloud Practitioner – AWS Academy**  
-- 🧠 **Microsoft Certified: Full-Stack Developer / AI & ML Engineer**  
-- 🔧 **IBM DevOps and AI Developer Professional Certificate**  
-- 🧪 **DeepLearning.AI: MLOps Specialization**
+⭐ = Research-grade / system-level projects
 
 ---
 
-## 📚 Research Publication
+## 🧩 Research & Systems Focus (NEW)
 
-📖 **Text Detection Based on Deep Learning**  
-🧠 *IEEE Int’l Conference on Intelligent Data Communication and Analytics*  
-📊 Built CNN-based handwriting recognition with 98.6% training and 96.9% testing accuracy
+My recent work focuses on **reliable AI system design**, particularly:
 
----
+- **Retrieval-Augmented Generation (RAG)** architectures
+- **Hallucination detection & mitigation**
+- **Semantic verification & AI safety**
+- **Reinforcement learning for system optimization**
+- **End-to-end AI pipelines with explicit control layers**
 
-## 🧠 Domain Expertise
+Together, **MedRAG → SafeRAG → RL-Retriever** form a complete loop:
 
-- LLMs, Prompt Engineering, Retrieval-Augmented Generation (RAG)  
-- Reinforcement Learning (PPO, DQN), Diffusion Models, GANs  
-- Cloud AI (AWS, GCP), MLOps, Model Monitoring  
-- Geospatial & GIS Systems, Real-Time Embedded AI  
-- Distributed Systems, Linux Kernel Internals, System Design
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lakshmichakradharvijayarao/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:lakshmichakradhar.v@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Lakshmi-Chakradhar-Vijayarao" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-> 🎯 This GitHub portfolio is a reflection of my journey in building intelligent, scalable, and impactful systems — from research to real-world deployments.
