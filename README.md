@@ -1,7 +1,7 @@
 <h1 align="center">🎯 Hi there! I'm <span style="color:#F97316;">Lakshmi Chakradhar Vijayarao</span></h1>
 
 <h3 align="center" style="color:#16A34A;">
-  🚀 Software Engineer • 💡 AI/ML & Data Engineer • ☁️ Cloud-Native Developer <br/>
+  💡 AI/ML & Data Engineer • 🚀 Software Engineer • ☁️ Cloud-Native Developer <br/>
   🎓 MSCS @ UT Dallas • 🔬 AI Researcher | LLMs • Systems Builder
 </h3>
 
