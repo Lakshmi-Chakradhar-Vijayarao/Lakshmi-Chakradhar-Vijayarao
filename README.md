@@ -1,87 +1,125 @@
-<a href="https://github.com/Lakshmi-Chakradhar-Vijayarao">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1b2a,1b4f72,0e6655&height=200&section=header&text=Lakshmi%20Chakradhar%20Vijayarao&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Geometry-Based%20Governance%20of%20LLM%20Hallucination&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,050a14,0d2137,0e6655,1b4f72&height=240&section=header&text=Lakshmi%20Chakradhar%20Vijayarao&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Geometry-Based%20Governance%20of%20LLM%20Hallucination&descSize=17&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1ABC9C&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Prospective+PhD+Researcher+%E2%80%94+Reliable+AI+Systems;LLM+Failure+Detection+via+Representation+Geometry;5-Project+Arc%3A+Mechanism+%E2%86%92+Certificate+%E2%86%92+Governance;All+predictions+pre-registered.+Negative+results+reported." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=1ABC9C&center=true&vCenter=true&width=800&height=45&lines=Prospective+PhD+Researcher+%E2%80%94+Reliable+AI+Systems;Geometry+is+the+language+of+failure+detection;5+Projects.+One+Arc.+Pre-registered+predictions.;Mechanism+%E2%86%92+Signal+%E2%86%92+Certificate+%E2%86%92+Dynamics+%E2%86%92+Governance;Negative+results+reported+alongside+positive+ones." alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="mailto:lakshmichakradhar.v@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lakshmichakradhar.v%40gmail.com-0d1b2a?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-lakshmichakradhar.v%40gmail.com-0d1b2a?style=for-the-badge&logo=gmail&logoColor=1abc9c"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/lakshmichakradharvijayarao">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://huggingface.co/Lakshmi-Chakradhar-Vijayarao">
-    <img src="https://img.shields.io/badge/HuggingFace-Models%20%26%20Spaces-FFD21F?style=flat-square&logo=huggingface&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/M.S.%20CS-UT%20Dallas%202025-c0392b?style=flat-square&logo=google-scholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-M.S.%20CS%20%C2%B7%20UT%20Dallas%202025-c0392b?style=for-the-badge&logo=academia&logoColor=white"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Lakshmi-Chakradhar-Vijayarao&style=flat-square&color=1abc9c&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Lakshmi-Chakradhar-Vijayarao&style=for-the-badge&color=1abc9c&label=PROFILE+VIEWS"/>
 </p>
 
----
+<br/>
 
-## The Research Question
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=050a14&height=3" width="100%"/>
+</div>
 
-> *Can we prove, from internal geometry alone, when a model is about to hallucinate — and govern it accordingly?*
-
-I study hallucination in large language models not as an alignment problem but as a **geometric one**: failures leave measurable signatures in representation space. My work traces those signatures from their causal origin inside feed-forward networks, through a mathematical certificate connecting geometry to detection guarantees, through failure propagation dynamics in multi-step pipelines, to a deployed adaptive routing system that acts on the signal in real time.
-
-Five projects. One arc. Pre-registered predictions. Honest negative results.
-
----
-
-## The 5-Project Arc
+<br/>
 
 <div align="center">
 
-```
-  ┌─────────────┐      ┌──────────────┐      ┌───────────────┐      ┌─────────────────┐      ┌──────────────────┐
-  │   MECH-INT  │─────▶│     HaRP     │─────▶│  GEOM-PROOF   │─────▶│   FAIL-CHAIN    │─────▶│    GUARDIAN      │
-  │  [Project 1]│      │  [Project 2] │      │  [Project 3]  │      │  [Project 4]    │      │  [Project 5]     │
-  │             │      │              │      │               │      │                 │      │                  │
-  │  Mechanism  │      │    Signal    │      │  Certificate  │      │   Dynamics      │      │   Governance     │
-  │             │      │              │      │               │      │                 │      │                  │
-  │ Where does  │      │  Where does  │      │  How do we    │      │  How do errors  │      │  How do we act   │
-  │ the error   │      │  it become   │      │  certify the  │      │  propagate in   │      │  on the signal   │
-  │  originate? │      │ detectable?  │      │  detection?   │      │  pipelines?     │      │  in real-time?   │
-  └─────────────┘      └──────────────┘      └───────────────┘      └─────────────────┘      └──────────────────┘
-       GPT-2              Qwen 2.5 3B         GPT-2 + Qwen              Mistral + GPT          Mistral 7B Instruct
-   534 samples           TQA + HaluEval         11 experiments          600 pipelines             TQA + HaluEval
-```
+### ❝ Can we prove, from internal geometry alone, when a model is about to hallucinate — and govern it accordingly? ❞
 
 </div>
 
----
+<p align="center">
+I study hallucination in large language models not as an alignment problem but as a <b>geometric one</b>.<br/>
+Failures leave measurable signatures in representation space — my work traces those signatures<br/>
+from their causal origin, through a mathematical certificate, through pipeline dynamics,<br/>
+to a deployed adaptive routing system that acts on the signal in real time.
+</p>
 
-## Project 1 — MECH-INT
+<br/>
 
-**Mechanistic Analysis of Hallucination in Transformer Feed-Forward Networks**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=050a14&height=50&text=THE%205-PROJECT%20ARC&fontSize=22&fontColor=1abc9c&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="60%">
+  <td align="center" width="19%">
+    <img src="https://img.shields.io/badge/PROJECT%201-MECH--INT-1565c0?style=for-the-badge&logo=microscope&logoColor=white"/><br/>
+    <b>Mechanism</b><br/>
+    <sub>Where does the error originate?</sub><br/><br/>
+    <kbd>GPT-2 Medium</kbd><br/>
+    <kbd>534 samples</kbd>
+  </td>
+  <td align="center" width="4%"><b>→</b></td>
+  <td align="center" width="19%">
+    <img src="https://img.shields.io/badge/PROJECT%202-HaRP-6a1b9a?style=for-the-badge&logo=radar&logoColor=white"/><br/>
+    <b>Signal</b><br/>
+    <sub>Where does it become detectable?</sub><br/><br/>
+    <kbd>Qwen 2.5 3B</kbd><br/>
+    <kbd>TQA + HaluEval</kbd>
+  </td>
+  <td align="center" width="4%"><b>→</b></td>
+  <td align="center" width="19%">
+    <img src="https://img.shields.io/badge/PROJECT%203-GEOM--PROOF-1b5e20?style=for-the-badge&logo=math&logoColor=white"/><br/>
+    <b>Certificate</b><br/>
+    <sub>How do we certify the detection?</sub><br/><br/>
+    <kbd>GPT-2 + Qwen</kbd><br/>
+    <kbd>11 experiments</kbd>
+  </td>
+  <td align="center" width="4%"><b>→</b></td>
+  <td align="center" width="19%">
+    <img src="https://img.shields.io/badge/PROJECT%204-FAIL--CHAIN-b71c1c?style=for-the-badge&logo=link&logoColor=white"/><br/>
+    <b>Dynamics</b><br/>
+    <sub>How do errors propagate in pipelines?</sub><br/><br/>
+    <kbd>Mistral + GPT</kbd><br/>
+    <kbd>600 pipelines</kbd>
+  </td>
+  <td align="center" width="4%"><b>→</b></td>
+  <td align="center" width="19%">
+    <img src="https://img.shields.io/badge/PROJECT%205-GUARDIAN-00695c?style=for-the-badge&logo=shield&logoColor=white"/><br/>
+    <b>Governance</b><br/>
+    <sub>How do we act on the signal in real time?</sub><br/><br/>
+    <kbd>Mistral 7B</kbd><br/>
+    <kbd>TQA + HaluEval</kbd>
+  </td>
+</tr>
+</table>
 
-**Core finding:** Hallucination localizes causally to Layers 8–9 (~33–38% depth) in GPT-2 Medium via FFN over-retrieval — not attention pattern failure. Direct Logit Attribution (DLA) proves the wrong token is promoted by specific FFN components causally, not correlationally.
+</div>
 
-A 12-stage interpretability pipeline over 534 manually curated samples.
+<br/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a1628&height=50&text=%5B%20PROJECT%201%20%5D%20%20MECH-INT%20%E2%80%94%20Mechanistic%20Analysis%20of%20Hallucination&fontSize=16&fontColor=5b9bd5&animation=fadeIn&fontAlignY=62" width="100%"/>
+
+<table>
+<tr>
+<td width="58%">
+
+**Core finding:** Hallucination localizes causally to **Layers 8–9 (~33–38% depth)** in GPT-2 Medium via FFN over-retrieval — not attention pattern failure. Direct Logit Attribution (DLA) proves the wrong token is promoted by specific FFN components causally, not correlationally. A 12-stage interpretability pipeline over 534 manually curated samples.
+
+<br/>
 
 | Metric | Value |
-|--------|-------|
-| Hallucination localization | **L8–9 (33–38% depth)** |
-| Hidden-state probe AUROC | **0.604** (vs 0.576 baseline) |
+|:-------|------:|
+| Hallucination localization | **L8–9 · 33–38% depth** |
+| Hidden-state probe AUROC | **0.604** vs 0.576 baseline |
 | Representation sparsity | **87%** (100/768 active dims) |
-| Steering signal (α=40) | AUROC 0.490 — directional |
+| DLA causal attribution | FFN dominant, not attention |
 
 </td>
-<td width="40%" align="center">
+<td width="42%" align="center">
 
 <a href="https://github.com/Lakshmi-Chakradhar-Vijayarao/mech-int">
   <img src="https://img.shields.io/badge/GitHub-mech--int-1565c0?style=for-the-badge&logo=github&logoColor=white"/>
@@ -90,49 +128,45 @@ A 12-stage interpretability pipeline over 534 manually curated samples.
 <br/><br/>
 
 <a href="https://lakshmi-chakradhar-vijayarao-mech-int-app-3enga8.streamlit.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%94%B4%20Live%20Demo-Open%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-```
-Error origin ≈ L8–9
-        │
-   ╔════╧════╗
-   ║  FFN    ║
-   ║ over-   ║
-   ║retrieval║
-   ╚═════════╝
-```
+<img src="https://img.shields.io/badge/Causal%20Depth-L8–9%20·%2033––38%25-1565c0?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/AUROC-0.604-1565c0?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/Method-FFN%20DLA%20Attribution-1565c0?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## Project 2 — HaRP
-
-**Hallucination-aware Representation Probing**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=150a24&height=50&text=%5B%20PROJECT%202%20%5D%20%20HaRP%20%E2%80%94%20Hallucination-aware%20Representation%20Probing&fontSize=16&fontColor=b39ddb&animation=fadeIn&fontAlignY=62" width="100%"/>
 
 <table>
 <tr>
-<td width="60%">
+<td width="58%">
 
-**Core finding:** The hallucination signal crystallizes at **L32 (89% depth)** in Qwen 2.5 3B, detectable with AUROC 0.775 OOD. Temperature scaling *degrades* hallucination calibration (ECE 0.071 → 0.395) — a counter-intuitive negative result reported transparently.
+**Core finding:** The hallucination signal **crystallizes at L32 (89% depth)** in Qwen 2.5 3B, detectable at AUROC 0.775 OOD. Temperature scaling *degrades* hallucination calibration (ECE 0.071 → 0.395) — a counter-intuitive negative result reported transparently. 4-quadrant uncertainty decomposition: epistemic vs aleatoric × correct vs hallucinated.
 
-A 4-quadrant uncertainty decomposition: epistemic vs aleatoric × correct vs hallucinated.
+<br/>
 
 | Metric | Value |
-|--------|-------|
+|:-------|------:|
 | In-domain probe AUROC | **0.758** (OOF-honest) |
 | OOD AUROC (TQA → HaluEval) | **0.775** |
 | ECE HaRP vs raw LLM | **0.039** vs 0.071 |
-| Temperature scaling ECE | 0.395 — **worse** |
+| Temperature scaling ECE | **0.395** — degraded ⚠ |
 | Real-time latency | **23.9 ms** (<0.5% overhead) |
 
 </td>
-<td width="40%" align="center">
+<td width="42%" align="center">
 
 <a href="https://github.com/Lakshmi-Chakradhar-Vijayarao/harp">
   <img src="https://img.shields.io/badge/GitHub-harp-6a1b9a?style=for-the-badge&logo=github&logoColor=white"/>
@@ -141,48 +175,47 @@ A 4-quadrant uncertainty decomposition: epistemic vs aleatoric × correct vs hal
 <br/><br/>
 
 <a href="https://harpfind.streamlit.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%94%B4%20Live%20Demo-Open%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-```
-Signal peak at 89% depth:
-0.50 ─────╮
-          │       ╭──────
-0.75 ─────┼───────╯  L32
-          │  AUROC 0.775
-          0%   89%  100%
-```
+<img src="https://img.shields.io/badge/Signal%20Peak-L32%20·%2089%25%20Depth-6a1b9a?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/OOD%20AUROC-0.775-6a1b9a?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/Temp%20Scaling-HARMFUL%20⚠-b71c1c?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## Project 3 — GEOM-PROOF
-
-**Geometric Certificates for Hallucination Detection**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=091a0e&height=50&text=%5B%20PROJECT%203%20%5D%20%20GEOM-PROOF%20%E2%80%94%20Geometric%20Certificates%20for%20Detection&fontSize=16&fontColor=81c784&animation=fadeIn&fontAlignY=62" width="100%"/>
 
 <table>
 <tr>
-<td width="60%">
+<td width="58%">
 
-**Core finding:** Fisher separability J bounds probe AUROC via **Φ(√J/2)**, accurate within 2.7% max error across all layers and models. Conformal guarantee: P(hallucination) ≤ 0.07 at ~52.9% acceptance rate. SW2 > Fisher (Spearman 0.821 vs 0.458) because real distributions are non-Gaussian.
+**Core finding:** Fisher separability J bounds probe AUROC via **Φ(√J/2)**, accurate within 2.7% max error across all layers and models. Conformal guarantee: P(hallucination) ≤ 0.07 at ~52.9% acceptance. SW2 > Fisher (Spearman 0.821 vs 0.458) — real distributions are non-Gaussian.
 
-Scale curve: `AUROC = σ(8.62·log₁₀(params) − 69.10)`, R² = 0.9993.
+Scale curve: `AUROC = σ(8.62 · log₁₀(params) − 69.10)` &nbsp; R² = 0.9993.
+
+<br/>
 
 | Result | Value |
-|--------|-------|
-| AUROC bound max error | **≤ 2.7%** (all layers + models) |
+|:-------|------:|
+| AUROC bound max error | **≤ 2.7%** across all layers + models |
 | Scale curve R² | **0.9993** |
-| Conformal α* | **0.07** at 52.9% coverage |
+| Conformal α* | **0.07** at 52.9% acceptance |
 | SW2 vs Fisher Spearman r | **0.821 vs 0.458** |
-| Within-family R² | **0.9996** |
+| Scale range validated | 117M → 3B → 7B |
 
 </td>
-<td width="40%" align="center">
+<td width="42%" align="center">
 
 <a href="https://github.com/Lakshmi-Chakradhar-Vijayarao/geom-proof">
   <img src="https://img.shields.io/badge/GitHub-geom--proof-1b5e20?style=for-the-badge&logo=github&logoColor=white"/>
@@ -191,50 +224,45 @@ Scale curve: `AUROC = σ(8.62·log₁₀(params) − 69.10)`, R² = 0.9993.
 <br/><br/>
 
 <a href="https://geom-proof.streamlit.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%94%B4%20Live%20Demo-Open%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-```
-AUROC ≈ Φ(√J/2)
-max error: 2.7%
-
-Scale curve R²=0.9993
-params → AUROC
-117M  →  0.50
-3B    →  0.775
-7B    →  0.804
-```
+<img src="https://img.shields.io/badge/Certificate-AUROC%20≈%20Φ(√J%2F2)-1b5e20?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/Max%20Error-≤%202.7%25-1b5e20?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/Scale%20R²-0.9993-1b5e20?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## Project 4 — FAIL-CHAIN
-
-**Failure Propagation Geometry in Multi-Step LLM Pipelines**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a0505&height=50&text=%5B%20PROJECT%204%20%5D%20%20FAIL-CHAIN%20%E2%80%94%20Failure%20Propagation%20in%20Multi-Step%20Pipelines&fontSize=16&fontColor=ef9a9a&animation=fadeIn&fontAlignY=62" width="100%"/>
 
 <table>
 <tr>
-<td width="60%">
+<td width="58%">
 
-**Core finding:** Self-refinement is a **nearly-absorbing Markov chain** (α = 0.9947). Recovery is mathematically impossible within 3 steps once failure occurs. Policy ordering theorem: ABSTAIN ≻ REGENERATE when α > 0.95. Context stripping *increases* amplified failures — a MODEL_BEHAVIOR_COLLAPSE mode.
+**Core finding:** Self-refinement is a **nearly-absorbing Markov chain** (α = 0.9947). Recovery within 3 steps is mathematically impossible. Policy ordering theorem: **ABSTAIN ≻ REGENERATE** when α > 0.95. Context stripping *increases* amplified failures (MODEL_BEHAVIOR_COLLAPSE). Global Fisher J collapses at step 2 (F-ratio = 0.007) — local J is the only viable path.
 
-Global Fisher J collapses completely (F-ratio = 0.007) at step 2 → local J (GUARDIAN) is the only viable solution.
+<br/>
 
 | Finding | Value |
-|---------|-------|
-| CASCADE failure rate | **92.3%** (554/600 pipelines) |
-| Cascade coefficient α | **0.9947** |
-| Implied recovery horizon | **~189 steps** |
+|:--------|------:|
+| CASCADE failure rate | **92.3%** (554 / 600 pipelines) |
+| Cascade absorption α | **0.9947** |
+| Recovery horizon 1/(1−α) | **~189 steps** |
 | Early-detection AUROC | **0.662** (pre-propagation) |
 | F-ratio at step 2 | **0.007** — global J fails |
 
 </td>
-<td width="40%" align="center">
+<td width="42%" align="center">
 
 <a href="https://github.com/Lakshmi-Chakradhar-Vijayarao/fail-chain">
   <img src="https://img.shields.io/badge/GitHub-fail--chain-b71c1c?style=for-the-badge&logo=github&logoColor=white"/>
@@ -243,48 +271,45 @@ Global Fisher J collapses completely (F-ratio = 0.007) at step 2 → local J (GU
 <br/><br/>
 
 <a href="https://fail-chain.streamlit.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%94%B4%20Live%20Demo-Open%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-```
-Markov cascade:
-S1 wrong ──▶ S2 wrong
-  α = 0.9947    │
-                ▼
-           S3 wrong
-     P(recovery in 3) ≈ 0%
-```
+<img src="https://img.shields.io/badge/Cascade%20Rate-92.3%25-b71c1c?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/Absorption%20α-0.9947-b71c1c?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/Policy-ABSTAIN%20≻%20REGEN-b71c1c?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## Project 5 — GUARDIAN
-
-**Adaptive Reliability Governance via Local Fisher Separability**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=041310&height=50&text=%5B%20PROJECT%205%20%5D%20%20GUARDIAN%20%E2%80%94%20Adaptive%20Governance%20via%20Local%20Fisher%20Geometry&fontSize=16&fontColor=4db6ac&animation=fadeIn&fontAlignY=62" width="100%"/>
 
 <table>
 <tr>
-<td width="60%">
+<td width="58%">
 
-**Core finding:** Local Fisher J (FAISS k=50 KNN) enables real-time routing — ACCEPT / REGENERATE / ABSTAIN — on Mistral 7B at **0.77 ms per query** (0.14% overhead). Adaptive thresholds: false-accept rate 100% → 0% in-distribution via 3-zone reliability system.
+**Core finding:** Local Fisher J (FAISS k=50 KNN) enables real-time routing — **ACCEPT / REGENERATE / ABSTAIN** — on Mistral 7B at 0.77 ms per query (0.14% overhead). Three reliability zones with adaptive threshold pairs derived from conformal coverage. Pre-registered predictions confirmed: Layer 24 at 75% depth (P1 ✓), AUROC 0.804 (P2 ✓).
 
-Pre-registered P1 (70–90% depth peak): **CONFIRMED** at Layer 24 (75%). Pre-registered P2 (AUROC ≥ 0.75): **CONFIRMED** at 0.804.
+<br/>
 
 | Metric | Value |
-|--------|-------|
+|:-------|------:|
 | CV probe AUROC | **0.804** |
 | AUARC (reliable subset) | **0.783** |
 | Routing latency | **0.77 ms** per query |
-| OOD routing detection | **67.3%** in LOW zone |
-| In-dist false-accept rate | **0.0%** (adaptive) |
+| OOD in LOW reliability zone | **67.3%** vs 38.7% in-dist |
+| In-dist false-accept rate | **0.0%** (adaptive thresholds) |
 
 </td>
-<td width="40%" align="center">
+<td width="42%" align="center">
 
 <a href="https://github.com/Lakshmi-Chakradhar-Vijayarao/guardian">
   <img src="https://img.shields.io/badge/GitHub-guardian-00695c?style=for-the-badge&logo=github&logoColor=white"/>
@@ -293,155 +318,112 @@ Pre-registered P1 (70–90% depth peak): **CONFIRMED** at Layer 24 (75%). Pre-re
 <br/><br/>
 
 <a href="https://huggingface.co/spaces/Lakshmi-Chakradhar-Vijayarao/guardian-demo">
-  <img src="https://img.shields.io/badge/Live%20Demo-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo-HuggingFace%20Space-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-```
-Query → Local J (k=50)
-   │
-   ├─ HIGH  → ACCEPT
-   ├─ MED   → REGENERATE
-   └─ LOW   → ABSTAIN
-    0.77 ms overhead
-```
+<img src="https://img.shields.io/badge/AUROC-0.804-00695c?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/Latency-0.77%20ms-00695c?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/P1%20%26%20P2-✓%20CONFIRMED-00695c?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
----
-
-## Key Numbers Across the Arc
-
-<div align="center">
-
-| Project | Model | Key Metric | Value | Significance |
-|---------|-------|------------|-------|--------------|
-| MECH-INT | GPT-2 Medium | Causal depth | **33–38%** | FFN over-retrieval layer |
-| HaRP | Qwen 2.5 3B | OOD AUROC | **0.775** | +0.198 over entropy baseline |
-| GEOM-PROOF | GPT-2 + Qwen | Bound max error | **≤ 2.7%** | Φ(√J/2) certificate |
-| FAIL-CHAIN | Mistral + GPT | Cascade coeff α | **0.9947** | Nearly-absorbing chain |
-| GUARDIAN | Mistral 7B | CV AUROC | **0.804** | P2 pre-registration confirmed |
-
-</div>
+<br/>
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lakshmi-Chakradhar-Vijayarao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1abc9c&icon_color=1abc9c&text_color=c9d1d9"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmi-Chakradhar-Vijayarao&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=1abc9c&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lakshmi-Chakradhar-Vijayarao&theme=dark&hide_border=true&background=0d1117&ring=1abc9c&fire=1abc9c&currStreakLabel=1abc9c" alt="GitHub Streak"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=050a14&height=50&text=KEY%20NUMBERS%20ACROSS%20THE%20ARC&fontSize=20&fontColor=1abc9c&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakshmi-Chakradhar-Vijayarao&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
+
+| | Project | Model | Key Finding | Key Number | Significance |
+|:-:|:--------|:------|:------------|:----------:|:-------------|
+| 🔵 | **MECH-INT** | GPT-2 Medium | Causal hallucination depth | **33–38%** | FFN over-retrieval at L8–9 |
+| 🟣 | **HaRP** | Qwen 2.5 3B | OOD AUROC | **0.775** | +0.198 over entropy baseline |
+| 🟢 | **GEOM-PROOF** | GPT-2 + Qwen | AUROC bound max error | **≤ 2.7%** | Φ(√J/2) geometric certificate |
+| 🔴 | **FAIL-CHAIN** | Mistral + GPT | Cascade absorption | **α = 0.9947** | Nearly-absorbing Markov chain |
+| 🩵 | **GUARDIAN** | Mistral 7B Instruct | CV AUROC | **0.804** | P2 pre-registration confirmed |
+
 </div>
 
----
-
-## Tech Stack
-
-<details>
-<summary><b>Languages & Frameworks</b></summary>
 <br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>AI & ML Research</b></summary>
-<br/>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-13B1F4?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Research-specific:** FAISS · conformal prediction · optimal transport · mechanistic interpretability · Fisher separability · Sliced Wasserstein · UMAP · activation patching
-
-</details>
-
-<details>
-<summary><b>Cloud, Data & DevOps</b></summary>
-<br/>
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-00B4D8?style=for-the-badge&logo=mlflow&logoColor=white)
-
-</details>
 
 ---
 
-## Prior Systems Work
+<img src="https://capsule-render.vercel.app/api?type=rect&color=050a14&height=50&text=TECH%20STACK&fontSize=20&fontColor=1abc9c&animation=fadeIn" width="100%"/>
 
-<details>
-<summary><b>Applied AI & Systems Projects</b></summary>
 <br/>
 
-| Project | Domain | Method | Result |
-|---------|--------|--------|--------|
-| [**SafeRAG**](https://github.com/Lakshmi-Chakradhar-Vijayarao/SafeRAG) | RAG Safety | Atomic claim-level hallucination verification (ACCEPT / REJECT / REFUSE) | 3-tier decision system |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,streamlit,r&theme=dark&perline=8"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github,git,linux,vscode&theme=dark&perline=8"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+**Research-specific:**&nbsp;
+<img src="https://img.shields.io/badge/FAISS-KNN%20Search-1565c0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Conformal%20Prediction-Coverage%20Bounds-1b5e20?style=flat-square"/>
+<img src="https://img.shields.io/badge/Optimal%20Transport-Wasserstein-6a1b9a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mechanistic%20Interp-DLA%20%2F%20Activation%20Patching-b71c1c?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fisher%20Separability-Local%20%26%20Global-00695c?style=flat-square"/>
+<img src="https://img.shields.io/badge/Markov%20Chains-Cascade%20Modeling-e65100?style=flat-square"/>
+
+</div>
+
+<br/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=050a14&height=50&text=PRIOR%20SYSTEMS%20WORK&fontSize=20&fontColor=1abc9c&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<details>
+<summary><b>&nbsp; Applied AI & Systems Projects — click to expand</b></summary>
+<br/>
+
+<div align="center">
+
+| Project | Domain | Core Method | Result |
+|:--------|:-------|:------------|-------:|
+| [**SafeRAG**](https://github.com/Lakshmi-Chakradhar-Vijayarao/SafeRAG) | RAG Safety | Atomic claim-level verification (ACCEPT / REJECT / REFUSE) | 3-tier decision system |
 | [**MedRAG**](https://github.com/Lakshmi-Chakradhar-Vijayarao/MedRAG) | Clinical AI | Hybrid retrieval (dense + BM25) + post-generation verification | −34% hallucinations |
-| [**RL-Retriever**](https://github.com/Lakshmi-Chakradhar-Vijayarao/rl-retriever) | Retrieval | PPO/DQN query rewriting agent | +28% recall |
-| [**FinAgentX**](https://github.com/Lakshmi-Chakradhar-Vijayarao/finagentx) | Finance | Multi-agent system with LLM-driven portfolio decisions | Live trading sim |
+| [**RL-Retriever**](https://github.com/Lakshmi-Chakradhar-Vijayarao/rl-retriever) | Retrieval | PPO/DQN query rewriting agent for retrieval-aware optimization | +28% recall |
+| [**FinAgentX**](https://github.com/Lakshmi-Chakradhar-Vijayarao/finagentx) | Finance | Multi-agent LLM system with portfolio decision loop | Live trading sim |
 | [**AlphaRoute**](https://github.com/Lakshmi-Chakradhar-Vijayarao/AlphaRoute_V2.0) | Trading | RL-based order routing engine | −18% slippage |
-| [**AgroVision**](https://github.com/Lakshmi-Chakradhar-Vijayarao/AgroVision) | AgriTech | YOLO-based crop/weed detection | 90% mAP, −15% herbicide |
-| [**neural-to-text-xai**](https://github.com/Lakshmi-Chakradhar-Vijayarao/neural-to-text-xai) | XAI | Neural network behavior → natural language explanations | Interpretability pipeline |
-| [**x-orch-6G**](https://github.com/Lakshmi-Chakradhar-Vijayarao/x-orch-6g) | Networking | RL-based network orchestration for 6G xApp | Policy optimization |
+| [**AgroVision**](https://github.com/Lakshmi-Chakradhar-Vijayarao/AgroVision) | AgriTech | YOLO-based crop/weed detector | 90% mAP · −15% herbicide |
+| [**neural-to-text-xai**](https://github.com/Lakshmi-Chakradhar-Vijayarao/neural-to-text-xai) | XAI | Neural behavior → natural language explanations | Interpretability pipeline |
+| [**x-orch-6G**](https://github.com/Lakshmi-Chakradhar-Vijayarao/x-orch-6g) | Networking | RL-based xApp orchestration for 6G networks | Policy optimization |
 
+</div>
 </details>
+
+<br/>
 
 ---
 
-## Contribution Activity
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshmi-Chakradhar-Vijayarao&bg_color=0d1117&color=1abc9c&line=1abc9c&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=1ABC9C&center=true&vCenter=true&width=700&height=30&lines=All+experiments+pre-registered+with+git+timestamps+before+execution.+Negative+results+reported." alt="Footer typing"/>
+
+<br/>
+
+**M.S. Computer Science &nbsp;·&nbsp; University of Texas at Dallas &nbsp;·&nbsp; May 2025**<br/>
+Dallas, TX &nbsp;·&nbsp; lakshmichakradhar.v@gmail.com
+
 </div>
 
 <br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lakshmi-Chakradhar-Vijayarao/Lakshmi-Chakradhar-Vijayarao/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lakshmi-Chakradhar-Vijayarao/Lakshmi-Chakradhar-Vijayarao/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Lakshmi-Chakradhar-Vijayarao/Lakshmi-Chakradhar-Vijayarao/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
-
----
-
-<div align="center">
-
-**M.S. Computer Science · University of Texas at Dallas · May 2025**<br/>
-Dallas, TX &nbsp;·&nbsp; lakshmichakradhar.v@gmail.com<br/><br/>
-
-*All experiments pre-registered with git timestamps before execution.*<br/>
-*Negative results reported alongside positive ones.*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0e6655,1b4f72,0d1b2a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0e6655,1b4f72,050a14&height=120&section=footer" width="100%"/>
