@@ -127,8 +127,8 @@ to a deployed adaptive routing system that acts on the signal in real time.
 
 <br/><br/>
 
-<a href="https://lakshmi-chakradhar-vijayarao-mech-int-app-3enga8.streamlit.app/">
-  <img src="https://img.shields.io/badge/%F0%9F%94%B4%20Live%20Demo-Open%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<a href="https://mech-int.streamlit.app/">
+  <img src="https://img.shields.io/badge/Research%20Brief-mech--int-1565c0?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -175,7 +175,7 @@ to a deployed adaptive routing system that acts on the signal in real time.
 <br/><br/>
 
 <a href="https://harpfind.streamlit.app/">
-  <img src="https://img.shields.io/badge/%F0%9F%94%B4%20Live%20Demo-Open%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Research%20Brief-harp-6a1b9a?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -224,7 +224,7 @@ Scale curve: `AUROC = σ(8.62 · log₁₀(params) − 69.10)` &nbsp; R² = 0.99
 <br/><br/>
 
 <a href="https://geom-proof.streamlit.app/">
-  <img src="https://img.shields.io/badge/%F0%9F%94%B4%20Live%20Demo-Open%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Research%20Brief-geom--proof-1b5e20?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -270,8 +270,8 @@ Scale curve: `AUROC = σ(8.62 · log₁₀(params) − 69.10)` &nbsp; R² = 0.99
 
 <br/><br/>
 
-<a href="https://fail-chain.streamlit.app/">
-  <img src="https://img.shields.io/badge/%F0%9F%94%B4%20Live%20Demo-Open%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<a href="https://failchain.streamlit.app/">
+  <img src="https://img.shields.io/badge/Research%20Brief-fail--chain-b71c1c?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -317,8 +317,8 @@ Scale curve: `AUROC = σ(8.62 · log₁₀(params) − 69.10)` &nbsp; R² = 0.99
 
 <br/><br/>
 
-<a href="https://huggingface.co/spaces/Lakshmi-Chakradhar-Vijayarao/guardian-demo">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo-HuggingFace%20Space-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<a href="https://guardiian.streamlit.app/">
+  <img src="https://img.shields.io/badge/Research%20Brief-guardian-00695c?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 <br/><br/>
